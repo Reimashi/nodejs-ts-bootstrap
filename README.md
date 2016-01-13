@@ -17,16 +17,16 @@ New project
 ```bash
 npm install
 ```
+
+- Install the TSD CLI and Grunt CLI
+
+```bash
+npm install -g tsd grunt
+```
 - Install basic typings for Typescript with [TSD](http://definitelytyped.org/tsd/)
 
 ```bash 
 tsd install node --save
-```
-
-- Install the Grunt CLI
-
-```bash
-npm install -g grunt-cli
 ```
     
 Start the developing!
